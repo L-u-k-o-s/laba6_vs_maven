@@ -222,4 +222,12 @@ public class CompanyCollection {
         fileWriter.close();
         log.info("Завершилось создание json файла");
     }
+
+    public void sqlRequestParsing(String str){
+        StringTokenizer stringTokenizer=new StringTokenizer(str);
+        String tmp="";
+        if(stringTokenizer.nextToken().equalsIgnoreCase("select")){
+           // while (stringTokenizer.hasMoreTokens())
+        }
+    }
 }
