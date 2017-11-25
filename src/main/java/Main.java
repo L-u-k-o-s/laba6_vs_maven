@@ -21,6 +21,7 @@ public class Main {
         try {
             CompanyCollection companyCollection = new CompanyCollection();
             companyCollection.setArrayList();
+            companyCollection.sqlRequestParsing(" select * from dataBase WHERE shortName='google'\n    \n");
             System.out.println("Вот эта компания была найдена по заданному краткому наименованию: " + companyCollection.searchByShortName("Google"));
             System.out.println();
 
@@ -51,7 +52,12 @@ public class Main {
             companyCollection.jsonMaker(arrayList1, "output4.json");
 
 
-        } catch (FileNotFoundException fnfe) {
+        } catch (InvalidRequest ir){
+            System.out.println("у вас Invalid Request");
+        }catch (UnexpectedRequest ue){
+            System.out.println(ue);
+        }
+        catch (FileNotFoundException fnfe) {
             System.out.println("Файл не найден");
         } catch (TransformerException te) {
             System.out.println(te);

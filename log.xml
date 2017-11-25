@@ -622,3 +622,2360 @@
   <message>Завершилось создание json файла</message>
 </record>
 </log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T18:08:33</date>
+  <millis>1511622513893</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T18:08:33</date>
+  <millis>1511622513944</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T18:08:33</date>
+  <millis>1511622513976</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T18:10:59</date>
+  <millis>1511622659656</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T18:10:59</date>
+  <millis>1511622659687</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T18:10:59</date>
+  <millis>1511622659703</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T18:11:07</date>
+  <millis>1511622667252</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T18:11:07</date>
+  <millis>1511622667323</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T18:11:07</date>
+  <millis>1511622667339</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T18:11:13</date>
+  <millis>1511622673422</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T18:11:13</date>
+  <millis>1511622673454</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T18:11:13</date>
+  <millis>1511622673470</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T18:11:38</date>
+  <millis>1511622698889</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T18:11:38</date>
+  <millis>1511622698920</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T18:11:38</date>
+  <millis>1511622698936</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T18:17:59</date>
+  <millis>1511623079401</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T18:17:59</date>
+  <millis>1511623079432</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T18:17:59</date>
+  <millis>1511623079448</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T18:18:48</date>
+  <millis>1511623128516</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T18:18:48</date>
+  <millis>1511623128547</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T18:18:48</date>
+  <millis>1511623128563</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T18:19:07</date>
+  <millis>1511623147670</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T18:19:07</date>
+  <millis>1511623147717</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T18:19:07</date>
+  <millis>1511623147748</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T18:20:04</date>
+  <millis>1511623204748</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T18:20:04</date>
+  <millis>1511623204779</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T18:20:04</date>
+  <millis>1511623204799</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T18:20:23</date>
+  <millis>1511623223408</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T18:20:23</date>
+  <millis>1511623223439</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T18:20:23</date>
+  <millis>1511623223455</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T18:21:48</date>
+  <millis>1511623308555</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T18:21:48</date>
+  <millis>1511623308586</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T18:21:48</date>
+  <millis>1511623308602</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T18:21:57</date>
+  <millis>1511623317813</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T18:21:57</date>
+  <millis>1511623317864</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T18:21:57</date>
+  <millis>1511623317880</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T18:22:53</date>
+  <millis>1511623373823</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T18:22:53</date>
+  <millis>1511623373854</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T18:22:53</date>
+  <millis>1511623373870</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T18:24:45</date>
+  <millis>1511623485090</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T18:24:45</date>
+  <millis>1511623485106</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T18:24:45</date>
+  <millis>1511623485134</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T18:24:47</date>
+  <millis>1511623487805</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T18:24:47</date>
+  <millis>1511623487899</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T18:24:47</date>
+  <millis>1511623487946</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T18:39:36</date>
+  <millis>1511624376362</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T18:39:36</date>
+  <millis>1511624376409</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T18:39:36</date>
+  <millis>1511624376425</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T19:15:39</date>
+  <millis>1511626539533</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T19:15:39</date>
+  <millis>1511626539565</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T19:15:39</date>
+  <millis>1511626539580</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T19:17:14</date>
+  <millis>1511626634450</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T19:17:14</date>
+  <millis>1511626634482</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T19:17:14</date>
+  <millis>1511626634513</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T19:17:48</date>
+  <millis>1511626668598</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T19:17:48</date>
+  <millis>1511626668630</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T19:17:48</date>
+  <millis>1511626668661</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T19:18:14</date>
+  <millis>1511626694571</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T19:18:14</date>
+  <millis>1511626694618</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T19:18:14</date>
+  <millis>1511626694634</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T20:53:02</date>
+  <millis>1511632382201</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T20:53:02</date>
+  <millis>1511632382231</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T20:53:02</date>
+  <millis>1511632382252</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T20:55:03</date>
+  <millis>1511632503416</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T20:55:03</date>
+  <millis>1511632503449</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T20:55:03</date>
+  <millis>1511632503465</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T23:31:20</date>
+  <millis>1511641880206</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T23:31:20</date>
+  <millis>1511641880243</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T23:31:20</date>
+  <millis>1511641880244</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T23:32:37</date>
+  <millis>1511641957298</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T23:32:37</date>
+  <millis>1511641957345</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T23:32:37</date>
+  <millis>1511641957361</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T23:32:52</date>
+  <millis>1511641972785</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T23:32:52</date>
+  <millis>1511641972817</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T23:32:52</date>
+  <millis>1511641972823</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T23:38:05</date>
+  <millis>1511642285547</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T23:38:05</date>
+  <millis>1511642285574</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T23:38:05</date>
+  <millis>1511642285587</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T23:38:20</date>
+  <millis>1511642300853</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T23:38:20</date>
+  <millis>1511642300885</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T23:38:20</date>
+  <millis>1511642300900</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T23:38:43</date>
+  <millis>1511642323489</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T23:38:43</date>
+  <millis>1511642323515</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T23:38:43</date>
+  <millis>1511642323529</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-25T23:43:02</date>
+  <millis>1511642582209</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-25T23:43:02</date>
+  <millis>1511642582240</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-25T23:43:02</date>
+  <millis>1511642582255</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-26T00:18:49</date>
+  <millis>1511644729505</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-26T00:18:49</date>
+  <millis>1511644729578</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-26T00:18:49</date>
+  <millis>1511644729606</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-26T00:21:36</date>
+  <millis>1511644896460</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-26T00:21:36</date>
+  <millis>1511644896565</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-26T00:21:36</date>
+  <millis>1511644896593</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-26T00:21:55</date>
+  <millis>1511644915561</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-26T00:21:55</date>
+  <millis>1511644915628</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-26T00:21:55</date>
+  <millis>1511644915665</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-26T00:22:27</date>
+  <millis>1511644947957</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-26T00:22:28</date>
+  <millis>1511644948020</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-26T00:22:28</date>
+  <millis>1511644948055</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-26T00:24:21</date>
+  <millis>1511645061762</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-26T00:24:21</date>
+  <millis>1511645061829</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-26T00:24:21</date>
+  <millis>1511645061874</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-26T00:25:07</date>
+  <millis>1511645107869</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-26T00:25:07</date>
+  <millis>1511645107947</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-26T00:25:07</date>
+  <millis>1511645107985</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-26T00:28:07</date>
+  <millis>1511645287759</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-26T00:28:07</date>
+  <millis>1511645287871</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-26T00:28:07</date>
+  <millis>1511645287920</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-26T00:30:03</date>
+  <millis>1511645403092</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-26T00:30:03</date>
+  <millis>1511645403124</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-26T00:30:03</date>
+  <millis>1511645403139</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-26T00:30:14</date>
+  <millis>1511645414799</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-26T00:30:14</date>
+  <millis>1511645414830</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-26T00:30:14</date>
+  <millis>1511645414852</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-26T00:30:50</date>
+  <millis>1511645450824</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-26T00:30:50</date>
+  <millis>1511645450871</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-26T00:30:50</date>
+  <millis>1511645450893</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-26T00:32:11</date>
+  <millis>1511645531660</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:11</date>
+  <millis>1511645531698</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:11</date>
+  <millis>1511645531713</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-26T00:32:15</date>
+  <millis>1511645535397</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:15</date>
+  <millis>1511645535419</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:15</date>
+  <millis>1511645535434</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575427</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575459</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575475</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575528</millis>
+  <sequence>3</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>searchByShortName</method>
+  <thread>1</thread>
+  <message>Начался поиск по краткому названию</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575532</millis>
+  <sequence>4</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>getCompaniesEqualsByBranch</method>
+  <thread>1</thread>
+  <message>Вызов функции getCompaniesEqualsByBranch()</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575536</millis>
+  <sequence>5</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>showArrayList</method>
+  <thread>1</thread>
+  <message>Вызов функции showArrayList()</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575536</millis>
+  <sequence>6</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>getCompaniesEqualsByActivity</method>
+  <thread>1</thread>
+  <message>Вызов функции getCompaniesEqualsByActivity()</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575536</millis>
+  <sequence>7</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>showArrayList</method>
+  <thread>1</thread>
+  <message>Вызов функции showArrayList()</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575536</millis>
+  <sequence>8</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>getCompaniesInTimePeriod</method>
+  <thread>1</thread>
+  <message>Вызов функции getCompaniesInTimePeriod()</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575540</millis>
+  <sequence>9</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>showArrayList</method>
+  <thread>1</thread>
+  <message>Вызов функции showArrayList()</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575540</millis>
+  <sequence>10</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>getCompaniesWithEmployeesCount</method>
+  <thread>1</thread>
+  <message>Вызов функции getCompaniesWithEmployeesCount()</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575540</millis>
+  <sequence>11</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>showArrayList</method>
+  <thread>1</thread>
+  <message>Вызов функции showArrayList()</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575540</millis>
+  <sequence>12</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Началось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575643</millis>
+  <sequence>13</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575643</millis>
+  <sequence>14</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Началось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575643</millis>
+  <sequence>15</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575643</millis>
+  <sequence>16</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Началось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575659</millis>
+  <sequence>17</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575659</millis>
+  <sequence>18</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Началось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575659</millis>
+  <sequence>19</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575659</millis>
+  <sequence>20</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>jsonMaker</method>
+  <thread>1</thread>
+  <message>Началось создание json файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575690</millis>
+  <sequence>21</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>jsonMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание json файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575690</millis>
+  <sequence>22</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>jsonMaker</method>
+  <thread>1</thread>
+  <message>Началось создание json файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575690</millis>
+  <sequence>23</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>jsonMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание json файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575690</millis>
+  <sequence>24</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>jsonMaker</method>
+  <thread>1</thread>
+  <message>Началось создание json файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575690</millis>
+  <sequence>25</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>jsonMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание json файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575690</millis>
+  <sequence>26</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>jsonMaker</method>
+  <thread>1</thread>
+  <message>Началось создание json файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:55</date>
+  <millis>1511645575706</millis>
+  <sequence>27</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>jsonMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание json файла</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-26T00:32:58</date>
+  <millis>1511645578479</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:58</date>
+  <millis>1511645578510</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-26T00:32:58</date>
+  <millis>1511645578532</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-26T00:46:59</date>
+  <millis>1511646419426</millis>
+  <sequence>3</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>searchByShortName</method>
+  <thread>1</thread>
+  <message>Начался поиск по краткому названию</message>
+</record>
+<record>
+  <date>2017-11-26T00:46:59</date>
+  <millis>1511646419430</millis>
+  <sequence>4</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>getCompaniesEqualsByBranch</method>
+  <thread>1</thread>
+  <message>Вызов функции getCompaniesEqualsByBranch()</message>
+</record>
+<record>
+  <date>2017-11-26T00:46:59</date>
+  <millis>1511646419434</millis>
+  <sequence>5</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>showArrayList</method>
+  <thread>1</thread>
+  <message>Вызов функции showArrayList()</message>
+</record>
+<record>
+  <date>2017-11-26T00:46:59</date>
+  <millis>1511646419434</millis>
+  <sequence>6</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>getCompaniesEqualsByActivity</method>
+  <thread>1</thread>
+  <message>Вызов функции getCompaniesEqualsByActivity()</message>
+</record>
+<record>
+  <date>2017-11-26T00:46:59</date>
+  <millis>1511646419438</millis>
+  <sequence>7</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>showArrayList</method>
+  <thread>1</thread>
+  <message>Вызов функции showArrayList()</message>
+</record>
+<record>
+  <date>2017-11-26T00:46:59</date>
+  <millis>1511646419438</millis>
+  <sequence>8</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>getCompaniesInTimePeriod</method>
+  <thread>1</thread>
+  <message>Вызов функции getCompaniesInTimePeriod()</message>
+</record>
+<record>
+  <date>2017-11-26T00:46:59</date>
+  <millis>1511646419442</millis>
+  <sequence>9</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>showArrayList</method>
+  <thread>1</thread>
+  <message>Вызов функции showArrayList()</message>
+</record>
+<record>
+  <date>2017-11-26T00:46:59</date>
+  <millis>1511646419442</millis>
+  <sequence>10</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>getCompaniesWithEmployeesCount</method>
+  <thread>1</thread>
+  <message>Вызов функции getCompaniesWithEmployeesCount()</message>
+</record>
+<record>
+  <date>2017-11-26T00:46:59</date>
+  <millis>1511646419446</millis>
+  <sequence>11</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>showArrayList</method>
+  <thread>1</thread>
+  <message>Вызов функции showArrayList()</message>
+</record>
+<record>
+  <date>2017-11-26T00:46:59</date>
+  <millis>1511646419446</millis>
+  <sequence>12</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Началось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:46:59</date>
+  <millis>1511646419504</millis>
+  <sequence>13</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:46:59</date>
+  <millis>1511646419504</millis>
+  <sequence>14</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Началось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:46:59</date>
+  <millis>1511646419508</millis>
+  <sequence>15</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:46:59</date>
+  <millis>1511646419508</millis>
+  <sequence>16</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Началось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:46:59</date>
+  <millis>1511646419512</millis>
+  <sequence>17</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:46:59</date>
+  <millis>1511646419516</millis>
+  <sequence>18</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Началось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:46:59</date>
+  <millis>1511646419516</millis>
+  <sequence>19</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:46:59</date>
+  <millis>1511646419516</millis>
+  <sequence>20</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>jsonMaker</method>
+  <thread>1</thread>
+  <message>Началось создание json файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:46:59</date>
+  <millis>1511646419547</millis>
+  <sequence>21</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>jsonMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание json файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:46:59</date>
+  <millis>1511646419547</millis>
+  <sequence>22</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>jsonMaker</method>
+  <thread>1</thread>
+  <message>Началось создание json файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:46:59</date>
+  <millis>1511646419547</millis>
+  <sequence>23</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>jsonMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание json файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:46:59</date>
+  <millis>1511646419547</millis>
+  <sequence>24</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>jsonMaker</method>
+  <thread>1</thread>
+  <message>Началось создание json файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:46:59</date>
+  <millis>1511646419563</millis>
+  <sequence>25</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>jsonMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание json файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:46:59</date>
+  <millis>1511646419563</millis>
+  <sequence>26</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>jsonMaker</method>
+  <thread>1</thread>
+  <message>Началось создание json файла</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-26T00:47:02</date>
+  <millis>1511646422492</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-26T00:47:02</date>
+  <millis>1511646422523</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-26T00:47:02</date>
+  <millis>1511646422539</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-26T00:47:27</date>
+  <millis>1511646447928</millis>
+  <sequence>3</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>searchByShortName</method>
+  <thread>1</thread>
+  <message>Начался поиск по краткому названию</message>
+</record>
+<record>
+  <date>2017-11-26T00:47:27</date>
+  <millis>1511646447928</millis>
+  <sequence>4</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>getCompaniesEqualsByBranch</method>
+  <thread>1</thread>
+  <message>Вызов функции getCompaniesEqualsByBranch()</message>
+</record>
+<record>
+  <date>2017-11-26T00:47:27</date>
+  <millis>1511646447928</millis>
+  <sequence>5</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>showArrayList</method>
+  <thread>1</thread>
+  <message>Вызов функции showArrayList()</message>
+</record>
+<record>
+  <date>2017-11-26T00:47:27</date>
+  <millis>1511646447928</millis>
+  <sequence>6</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>getCompaniesEqualsByActivity</method>
+  <thread>1</thread>
+  <message>Вызов функции getCompaniesEqualsByActivity()</message>
+</record>
+<record>
+  <date>2017-11-26T00:47:27</date>
+  <millis>1511646447928</millis>
+  <sequence>7</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>showArrayList</method>
+  <thread>1</thread>
+  <message>Вызов функции showArrayList()</message>
+</record>
+<record>
+  <date>2017-11-26T00:47:27</date>
+  <millis>1511646447928</millis>
+  <sequence>8</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>getCompaniesInTimePeriod</method>
+  <thread>1</thread>
+  <message>Вызов функции getCompaniesInTimePeriod()</message>
+</record>
+<record>
+  <date>2017-11-26T00:47:27</date>
+  <millis>1511646447928</millis>
+  <sequence>9</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>showArrayList</method>
+  <thread>1</thread>
+  <message>Вызов функции showArrayList()</message>
+</record>
+<record>
+  <date>2017-11-26T00:47:27</date>
+  <millis>1511646447928</millis>
+  <sequence>10</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>getCompaniesWithEmployeesCount</method>
+  <thread>1</thread>
+  <message>Вызов функции getCompaniesWithEmployeesCount()</message>
+</record>
+<record>
+  <date>2017-11-26T00:47:27</date>
+  <millis>1511646447950</millis>
+  <sequence>11</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>showArrayList</method>
+  <thread>1</thread>
+  <message>Вызов функции showArrayList()</message>
+</record>
+<record>
+  <date>2017-11-26T00:47:27</date>
+  <millis>1511646447951</millis>
+  <sequence>12</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Началось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:47:28</date>
+  <millis>1511646448014</millis>
+  <sequence>13</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:47:28</date>
+  <millis>1511646448014</millis>
+  <sequence>14</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Началось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:47:28</date>
+  <millis>1511646448014</millis>
+  <sequence>15</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:47:28</date>
+  <millis>1511646448029</millis>
+  <sequence>16</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Началось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:47:28</date>
+  <millis>1511646448029</millis>
+  <sequence>17</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:47:28</date>
+  <millis>1511646448029</millis>
+  <sequence>18</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Началось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:47:28</date>
+  <millis>1511646448029</millis>
+  <sequence>19</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-26T00:47:28</date>
+  <millis>1511646448029</millis>
+  <sequence>20</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>jsonMaker</method>
+  <thread>1</thread>
+  <message>Началось создание json файла</message>
+</record>

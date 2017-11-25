@@ -31,7 +31,7 @@ public class CompanyCollection {
 
     public CompanyCollection() throws IOException {
         arrayList = new ArrayList<>();
-        FileHandler fh = new FileHandler("log.xml",true);
+        FileHandler fh = new FileHandler("log.xml", true);
         log.addHandler(fh);
         log.info("Запустился конструктор без параметров");
     }
@@ -223,11 +223,77 @@ public class CompanyCollection {
         log.info("Завершилось создание json файла");
     }
 
-    public void sqlRequestParsing(String str){
-        StringTokenizer stringTokenizer=new StringTokenizer(str);
-        String tmp="";
-        if(stringTokenizer.nextToken().equalsIgnoreCase("select")){
-           // while (stringTokenizer.hasMoreTokens())
+    public void sqlRequestParsing(String str) throws InvalidRequest, UnexpectedRequest {
+        str = str.trim();
+        StringBuilder stringBuilder = new StringBuilder(str);
+        Scanner sc = new Scanner(str).useDelimiter("[ ,\n\t]");
+        //StringTokenizer stringTokenizer=new StringTokenizer(str);
+        List<String> list = new ArrayList<>();
+        while (sc.hasNext()) {
+            list.add(sc.next());
         }
+        sc.close();
+        list = list.stream().filter(item -> !item.equals("") && !item.equals("\t")).collect(Collectors.toList());
+        if (list.get(0).equalsIgnoreCase("select") && list.get(1).equalsIgnoreCase("*") && list.get(2).equalsIgnoreCase("from")) {
+            list.remove(0);
+            list.remove(0);
+            list.remove(0);
+
+        } else if ((list.get(0).equalsIgnoreCase("select*") && list.get(1).equalsIgnoreCase("from")) || (list.get(0).equalsIgnoreCase("select") && list.get(1).equalsIgnoreCase("*from"))) {
+            list.remove(0);
+            list.remove(0);
+        } else if (list.get(0).equalsIgnoreCase("select*from")) {
+            list.remove(0);
+        } else {
+            throw new InvalidRequest();
+        }
+        if (list.get(0).equalsIgnoreCase("dataBase") && list.get(1).equalsIgnoreCase("where")) {
+            list.remove(0);
+            list.remove(0);
+        } else {
+            throw new InvalidRequest();
+        }
+
+
+        if (isSatisfiedForChoosingByShortName(list)) {
+            searchByShortName(whatSearchByShortName(list));
+        }
+    }
+
+    public boolean isSatisfiedForChoosingByShortName(List<String> list) throws UnexpectedRequest {
+        try {
+            if (list.size() > 3) {
+                return false;
+            }
+            if (list.get(0).trim().substring(0, 9).equalsIgnoreCase("shortName")) {
+                return true;
+            }
+            return false;
+        } catch (StringIndexOutOfBoundsException siobe) {
+            throw new UnexpectedRequest("Непредвиденный параметр ");
+        }
+    }
+
+    public String whatSearchByShortName(List<String> list) throws UnexpectedRequest {
+        StringBuilder stringBuilder = new StringBuilder();
+        for (String str : list) {
+            stringBuilder.append(str);
+        }
+        stringBuilder = new StringBuilder(stringBuilder.toString().replace(" ", ""));
+        stringBuilder.replace(0, 9, "");
+        if (stringBuilder.charAt(0) == '=' && stringBuilder.charAt(1) == '\'') {
+            stringBuilder.replace(0, 2, "");
+            int i = 0;
+            while (i < stringBuilder.length()) {
+                if (stringBuilder.charAt(i) == '\'' && i == 0 && i + 1 == stringBuilder.length()) {
+                    return "";
+                } else if (stringBuilder.charAt(i) == '\'' && i > 0 && stringBuilder.charAt(i) != '\\' && i + 1 == stringBuilder.length()) {
+                    return stringBuilder.substring(0, stringBuilder.length() - 1).toString();
+                }
+                i++;
+            }
+            throw new UnexpectedRequest("В вашем запросе неправильные аргументы");
+        }
+        throw new UnexpectedRequest("В вашем запросе неправильные аргументы");
     }
 }
