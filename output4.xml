@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ArrayList>
+<Company id="1">
+<name>Google</name>
+<shortTitle>google</shortTitle>
+<dateUpdate>Fri Jul 23 00:00:00 MSD 1993</dateUpdate>
+<address>Калифорния</address>
+<dateFoundation>Sat Dec 12 00:00:00 MSK 2009</dateFoundation>
+<countEmployees>1020399</countEmployees>
+<auditor>все еще не знаю что это</auditor>
+<phone>380889480</phone>
+<email>google@gmail.com</email>
+<branch>it</branch>
+<activity>soft</activity>
+<internetAddress>google.com</internetAddress>
+</Company>
+</ArrayList>

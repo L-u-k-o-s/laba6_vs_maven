@@ -1,0 +1,31 @@
+
+[
+    {
+        "Name":"Tesla",
+        "ShortTitle":"Tesla",
+        "DateUpdate":"Sun Aug 16 00:00:00 MSD 1998",
+        "Adress":"gde-to daleko dom 17",
+        "DateFoundation":"Sat Aug 16 00:00:00 MSD 1997",
+        "CountEmployees":1001,
+        "Auditor":"Chto eto?",
+        "Phone":"+375298713784",
+        "Email":"tesla@gmail.com",
+        "Branch":"auto",
+        "Activity":"auto",
+        "InternetAddress":"tesla.com"
+    },
+    {
+        "Name":"Tesla2",
+        "ShortTitle":"Tesla2",
+        "DateUpdate":"Sat Aug 16 00:00:00 MSD 2003",
+        "Adress":"gde-to daleko dom 17",
+        "DateFoundation":"Fri Aug 16 00:00:00 MSD 2002",
+        "CountEmployees":1001,
+        "Auditor":"Chto eto?",
+        "Phone":"+375298713784",
+        "Email":"tesla@gmail.com",
+        "Branch":"auto",
+        "Activity":"auto",
+        "InternetAddress":"tesla.com"
+    }
+]

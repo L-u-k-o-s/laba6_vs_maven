@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978371</millis>
+  <sequence>0</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Запустился конструктор без параметров</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978400</millis>
+  <sequence>1</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Началась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978415</millis>
+  <sequence>2</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>setArrayList</method>
+  <thread>1</thread>
+  <message>Завершилась инициализация массива</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978416</millis>
+  <sequence>3</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>searchByShortName</method>
+  <thread>1</thread>
+  <message>Начался поиск по краткому названию</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978420</millis>
+  <sequence>4</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>getCompaniesEqualsByBranch</method>
+  <thread>1</thread>
+  <message>Вызов функции getCompaniesEqualsByBranch()</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978455</millis>
+  <sequence>5</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>showArrayList</method>
+  <thread>1</thread>
+  <message>Вызов функции showArrayList()</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978455</millis>
+  <sequence>6</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>getCompaniesEqualsByActivity</method>
+  <thread>1</thread>
+  <message>Вызов функции getCompaniesEqualsByActivity()</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978470</millis>
+  <sequence>7</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>showArrayList</method>
+  <thread>1</thread>
+  <message>Вызов функции showArrayList()</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978470</millis>
+  <sequence>8</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>getCompaniesInTimePeriod</method>
+  <thread>1</thread>
+  <message>Вызов функции getCompaniesInTimePeriod()</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978470</millis>
+  <sequence>9</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>showArrayList</method>
+  <thread>1</thread>
+  <message>Вызов функции showArrayList()</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978470</millis>
+  <sequence>10</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>getCompaniesWithEmployeesCount</method>
+  <thread>1</thread>
+  <message>Вызов функции getCompaniesWithEmployeesCount()</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978470</millis>
+  <sequence>11</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>showArrayList</method>
+  <thread>1</thread>
+  <message>Вызов функции showArrayList()</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978470</millis>
+  <sequence>12</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Началось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978535</millis>
+  <sequence>13</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978536</millis>
+  <sequence>14</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Началось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978539</millis>
+  <sequence>15</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978539</millis>
+  <sequence>16</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Началось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978539</millis>
+  <sequence>17</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978539</millis>
+  <sequence>18</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Началось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978539</millis>
+  <sequence>19</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>xmlMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание xml файла</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978539</millis>
+  <sequence>20</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>jsonMaker</method>
+  <thread>1</thread>
+  <message>Началось создание json файла</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978570</millis>
+  <sequence>21</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>jsonMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание json файла</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978570</millis>
+  <sequence>22</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>jsonMaker</method>
+  <thread>1</thread>
+  <message>Началось создание json файла</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978570</millis>
+  <sequence>23</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>jsonMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание json файла</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978570</millis>
+  <sequence>24</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>jsonMaker</method>
+  <thread>1</thread>
+  <message>Началось создание json файла</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978570</millis>
+  <sequence>25</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>jsonMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание json файла</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978570</millis>
+  <sequence>26</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>jsonMaker</method>
+  <thread>1</thread>
+  <message>Началось создание json файла</message>
+</record>
+<record>
+  <date>2017-11-14T22:16:18</date>
+  <millis>1510686978570</millis>
+  <sequence>27</sequence>
+  <logger>CompanyCollection</logger>
+  <level>INFO</level>
+  <class>CompanyCollection</class>
+  <method>jsonMaker</method>
+  <thread>1</thread>
+  <message>Завершилось создание json файла</message>
+</record>
+</log>
