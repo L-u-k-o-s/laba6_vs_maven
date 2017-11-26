@@ -234,34 +234,20 @@ public class CompanyCollection {
         }
         sc.close();
         list = list.stream().filter(item -> !item.equals("") && !item.equals("\t")).collect(Collectors.toList());
-        if (list.get(0).equalsIgnoreCase("select") && list.get(1).equalsIgnoreCase("*") && list.get(2).equalsIgnoreCase("from")) {
-            list.remove(0);
-            list.remove(0);
-            list.remove(0);
 
-        } else if ((list.get(0).equalsIgnoreCase("select*") && list.get(1).equalsIgnoreCase("from")) || (list.get(0).equalsIgnoreCase("select") && list.get(1).equalsIgnoreCase("*from"))) {
-            list.remove(0);
-            list.remove(0);
-        } else if (list.get(0).equalsIgnoreCase("select*from")) {
-            list.remove(0);
-        } else {
-            throw new InvalidRequest();
-        }
-        if (list.get(0).equalsIgnoreCase("dataBase") && list.get(1).equalsIgnoreCase("where")) {
-            list.remove(0);
-            list.remove(0);
-        } else {
-            throw new InvalidRequest();
-        }
-
+        firstParce(list);
 
         if (isSatisfiedForChoosingByShortName(list)) {
             searchByShortName(whatSearchByShortName(list));
-        }
-        else if(isSatisfiedForChoosingByActivity(list)){
+        } else if (isSatisfiedForChoosingByActivity(list)) {
             getCompaniesEqualsByActivity(whatSearchByActivity(list));
+        } else if (isSatisfiedForChoosingByCountEmployees(list)) {
+            Pair pair = rangeForSearch(list);
+            System.out.println(
+                    getCompaniesWithEmployeesCount(pair.getFirst(), pair.getSecond()));
+        } else {
+            throw new UnexpectedRequest("Непредвиденный запрос, кооторый не подходит ни под какие условия");
         }
-        else if(isSatisfiedForChoosingByCountEmployees(list)){}
     }
 
     public boolean isSatisfiedForChoosingByShortName(List<String> list) throws UnexpectedRequest {
@@ -301,21 +287,21 @@ public class CompanyCollection {
         throw new UnexpectedRequest("В вашем запросе неправильные аргументы");
     }
 
-    public boolean isSatisfiedForChoosingByActivity(List<String> list) throws UnexpectedRequest{
-        try{
-        if (list.size() > 3) {
+    public boolean isSatisfiedForChoosingByActivity(List<String> list) throws UnexpectedRequest {
+        try {
+            if (list.size() > 3) {
+                return false;
+            }
+            if (list.get(0).trim().substring(0, 8).equalsIgnoreCase("Activity")) {
+                return true;
+            }
             return false;
+        } catch (StringIndexOutOfBoundsException siobe) {
+            throw new UnexpectedRequest("Непредвиденный параметр ");
         }
-        if (list.get(0).trim().substring(0,8 ).equalsIgnoreCase("Activity")) {
-            return true;
-        }
-        return false;
-    } catch (StringIndexOutOfBoundsException siobe) {
-        throw new UnexpectedRequest("Непредвиденный параметр ");
-    }
     }
 
-    public String whatSearchByActivity (List<String> list) throws UnexpectedRequest {
+    public String whatSearchByActivity(List<String> list) throws UnexpectedRequest {
         StringBuilder stringBuilder = new StringBuilder();
         for (String str : list) {
             stringBuilder.append(str);
@@ -337,17 +323,70 @@ public class CompanyCollection {
         }
         throw new UnexpectedRequest("В вашем запросе неправильные аргументы");
     }
-    public boolean isSatisfiedForChoosingByCountEmployees(List<String> list) throws UnexpectedRequest{
-        try{
+
+    public boolean isSatisfiedForChoosingByCountEmployees(List<String> list) throws UnexpectedRequest {
+        try {
             if (list.size() > 5) {
                 return false;
             }
-            if (list.get(0).trim().substring(0,14).equalsIgnoreCase("countEmployees")) {
+            if (list.get(0).trim().substring(0, 14).equalsIgnoreCase("countEmployees")) {
                 return true;
             }
             return false;
         } catch (StringIndexOutOfBoundsException siobe) {
             throw new UnexpectedRequest("Непредвиденный параметр ");
+        }
+    }
+
+    public Pair rangeForSearch(List<String> list) throws InvalidRequest {
+        try {
+            int first = 0;
+            int second = 0;
+            StringBuilder stringBuilder = new StringBuilder();
+            for (String str : list) {
+                stringBuilder.append(str).append(" ");
+            }
+            stringBuilder.replace(0, 14, "");
+            //stringBuilder = new StringBuilder(stringBuilder.toString().trim());
+            Scanner sc = new Scanner(stringBuilder.toString().trim());
+            if (sc.next().equalsIgnoreCase("BETWEEN")) {
+                if (sc.hasNextInt()) {
+                    first = sc.nextInt();
+                    if (sc.next().equalsIgnoreCase("AND")) {
+                        if (sc.hasNextInt()) {
+                            second = sc.nextInt();
+                            return new Pair(first, second);
+                        }
+                    }
+                }
+            }
+            throw new InvalidRequest();
+        } catch (Exception exc) {
+            throw new InvalidRequest();
+        }
+
+
+    }
+
+    private void firstParce(List<String> list) throws InvalidRequest {
+        if (list.get(0).equalsIgnoreCase("select") && list.get(1).equalsIgnoreCase("*") && list.get(2).equalsIgnoreCase("from")) {
+            list.remove(0);
+            list.remove(0);
+            list.remove(0);
+
+        } else if ((list.get(0).equalsIgnoreCase("select*") && list.get(1).equalsIgnoreCase("from")) || (list.get(0).equalsIgnoreCase("select") && list.get(1).equalsIgnoreCase("*from"))) {
+            list.remove(0);
+            list.remove(0);
+        } else if (list.get(0).equalsIgnoreCase("select*from")) {
+            list.remove(0);
+        } else {
+            throw new InvalidRequest();
+        }
+        if (list.get(0).equalsIgnoreCase("dataBase") && list.get(1).equalsIgnoreCase("where")) {
+            list.remove(0);
+            list.remove(0);
+        } else {
+            throw new InvalidRequest();
         }
     }
 }

@@ -21,7 +21,7 @@ public class Main {
         try {
             CompanyCollection companyCollection = new CompanyCollection();
             companyCollection.setArrayList();
-            companyCollection.sqlRequestParsing("select * from dataBase where countEmployees BETWEEN 23 AND 1000");
+            companyCollection.sqlRequestParsing("select * from dataBase where countEmployees BETWEEN 23 AND 1002");
             System.out.println("Вот эта компания была найдена по заданному краткому наименованию: " + companyCollection.searchByShortName("Google"));
             System.out.println();
 
