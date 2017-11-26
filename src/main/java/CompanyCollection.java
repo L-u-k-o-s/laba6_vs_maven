@@ -261,6 +261,7 @@ public class CompanyCollection {
         else if(isSatisfiedForChoosingByActivity(list)){
             getCompaniesEqualsByActivity(whatSearchByActivity(list));
         }
+        else if(isSatisfiedForChoosingByCountEmployees(list)){}
     }
 
     public boolean isSatisfiedForChoosingByShortName(List<String> list) throws UnexpectedRequest {
@@ -335,5 +336,18 @@ public class CompanyCollection {
             throw new UnexpectedRequest("В вашем запросе неправильные аргументы ");
         }
         throw new UnexpectedRequest("В вашем запросе неправильные аргументы");
+    }
+    public boolean isSatisfiedForChoosingByCountEmployees(List<String> list) throws UnexpectedRequest{
+        try{
+            if (list.size() > 5) {
+                return false;
+            }
+            if (list.get(0).trim().substring(0,14).equalsIgnoreCase("countEmployees")) {
+                return true;
+            }
+            return false;
+        } catch (StringIndexOutOfBoundsException siobe) {
+            throw new UnexpectedRequest("Непредвиденный параметр ");
+        }
     }
 }
