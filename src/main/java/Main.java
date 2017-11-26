@@ -21,7 +21,7 @@ public class Main {
         try {
             CompanyCollection companyCollection = new CompanyCollection();
             companyCollection.setArrayList();
-            companyCollection.sqlRequestParsing(" select * from dataBase WHERE shortName='google'\n    \n");
+            companyCollection.sqlRequestParsing("select * from dataBase WHERE activity='soft'");
             System.out.println("Вот эта компания была найдена по заданному краткому наименованию: " + companyCollection.searchByShortName("Google"));
             System.out.println();
 

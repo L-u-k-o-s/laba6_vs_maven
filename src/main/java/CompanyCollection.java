@@ -258,6 +258,9 @@ public class CompanyCollection {
         if (isSatisfiedForChoosingByShortName(list)) {
             searchByShortName(whatSearchByShortName(list));
         }
+        else if(isSatisfiedForChoosingByActivity(list)){
+            getCompaniesEqualsByActivity(whatSearchByActivity(list));
+        }
     }
 
     public boolean isSatisfiedForChoosingByShortName(List<String> list) throws UnexpectedRequest {
@@ -293,6 +296,43 @@ public class CompanyCollection {
                 i++;
             }
             throw new UnexpectedRequest("В вашем запросе неправильные аргументы");
+        }
+        throw new UnexpectedRequest("В вашем запросе неправильные аргументы");
+    }
+
+    public boolean isSatisfiedForChoosingByActivity(List<String> list) throws UnexpectedRequest{
+        try{
+        if (list.size() > 3) {
+            return false;
+        }
+        if (list.get(0).trim().substring(0,8 ).equalsIgnoreCase("Activity")) {
+            return true;
+        }
+        return false;
+    } catch (StringIndexOutOfBoundsException siobe) {
+        throw new UnexpectedRequest("Непредвиденный параметр ");
+    }
+    }
+
+    public String whatSearchByActivity (List<String> list) throws UnexpectedRequest {
+        StringBuilder stringBuilder = new StringBuilder();
+        for (String str : list) {
+            stringBuilder.append(str);
+        }
+        stringBuilder = new StringBuilder(stringBuilder.toString().replace(" ", ""));
+        stringBuilder.replace(0, 8, "");
+        if (stringBuilder.charAt(0) == '=' && stringBuilder.charAt(1) == '\'') {
+            stringBuilder.replace(0, 2, "");
+            int i = 0;
+            while (i < stringBuilder.length()) {
+                if (stringBuilder.charAt(i) == '\'' && i == 0 && i + 1 == stringBuilder.length()) {
+                    return "";
+                } else if (stringBuilder.charAt(i) == '\'' && i > 0 && stringBuilder.charAt(i) != '\\' && i + 1 == stringBuilder.length()) {
+                    return stringBuilder.substring(0, stringBuilder.length() - 1).toString();
+                }
+                i++;
+            }
+            throw new UnexpectedRequest("В вашем запросе неправильные аргументы ");
         }
         throw new UnexpectedRequest("В вашем запросе неправильные аргументы");
     }
