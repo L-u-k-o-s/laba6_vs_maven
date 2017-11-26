@@ -749,7 +749,7 @@
       <workItem from="1511610925243" duration="3003000" />
       <workItem from="1511618054808" duration="14855000" />
       <workItem from="1511698329595" duration="787000" />
-      <workItem from="1511701243720" duration="7754000" />
+      <workItem from="1511701243720" duration="7803000" />
     </task>
     <task id="LOCAL-00001" summary="Первый раз сохраняю">
       <created>1511617432565</created>
@@ -779,11 +779,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511706326000</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Осталось сделать нормальный вывод в файл">
+      <created>1511716446472</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1511716446472</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43421000" />
+    <option name="totallyTimeSpent" value="43470000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -838,7 +845,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Первый раз сохраняю" />
     <MESSAGE value="Допилить выводы в файл и запрос" />
-    <option name="LAST_COMMIT_MESSAGE" value="Допилить выводы в файл и запрос" />
+    <MESSAGE value="Осталось сделать нормальный вывод в файл" />
+    <option name="LAST_COMMIT_MESSAGE" value="Осталось сделать нормальный вывод в файл" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
